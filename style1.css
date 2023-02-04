@@ -1,0 +1,96 @@
+#home{
+margin-left: 420px;
+}
+#about{
+margin-left: 120px;
+}
+#contact{
+    margin-left: 147px;
+}
+h2{
+    
+    margin-top: 100px;
+   
+}
+.bor:hover{
+border: 100px solid rgb(12, 39, 117);
+
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin-top:50px;
+    margin-left: 100px;
+    border: 1px solid black;
+    padding:10px;
+  
+    
+}
+.kk{
+    margin-left: 100px;
+}
+#aa{
+margin-left: 200px;
+}
+#bb{
+    margin-left:217px;
+}
+.kk1{
+    margin-left: 100px;
+    position: absolute;
+    width: 330px;
+    margin-top: 60px;
+    
+}
+#aa1{
+margin-left: 527px;
+position: absolute;
+width:330px;
+margin-top:50px;
+
+}
+#bb1{
+    margin-left: 953px;
+    position:absolute;
+    margin-top:50px;
+    width:330px;
+}
+
+.a11{
+    margin-left:787px;
+    border: 1px solid black;
+    margin-top:150px;
+    position: absolute;
+}
+.a12{
+    margin-left:1214px;
+    margin-top:150px;
+    border: 1px solid black;
+    position: absolute;
+}
+.a113{
+    margin-top:150px;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 355px;
+}
+.aqqq:hover{
+  cursor:grab ;
+  
+}
+.k11{
+    margin-top:230px;
+    margin-left:115px;
+    position: absolute;
+}
+.k12{
+    margin-top:230px;
+    margin-left:544px;
+    position:absolute;
+}
+.k13{
+    margin-top:230px;
+    margin-left:978px;
+    position:absolute;
+}
